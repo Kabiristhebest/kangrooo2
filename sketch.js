@@ -205,7 +205,7 @@ function spawnObstacles() {
   score = 0;
 }*/
 
-function reset(){
+/*function reset(){
   gameState = PLAY;
   gameOver.visible = false;
   restart.visible = false;
@@ -229,7 +229,7 @@ function reset(){
   score = 0;
 }*/
 
-/*function reset(){
+function reset(){
   gameState = PLAY;
   gameOver.visible = false;
   restart.visible = false;
